@@ -1,0 +1,104 @@
+{
+  "airshou" : {
+    "description" : "Live Streaming and screen recording",
+    "dev" : "Shou",
+    "name" : "AirShou",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXb18ajjqa6Ys-jkw,,%2Ftitle%2FAirShou"
+  },
+  "bobbymovie" : {
+    "description" : "Watch movies and tv for free",
+    "dev" : "Unknown",
+    "name" : "Bobby Movie",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXc3baSn6S0qs-YYL_qzw,,%2Ftitle%2FBobbyMovie"
+  },
+  "channels" : {
+    "description" : "",
+    "dev" : "Unknown",
+    "name" : "Channels",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXd1rWelJyxp5Scorc,%2Ftitle%2FChannels"
+  },
+  "coolpixel" : {
+    "description" : "",
+    "dev" : "Unknown",
+    "name" : "Cool Pixel",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXd3cOclqC9mdJhm8bb%2Ftitle%2FCoolPixel"
+  },
+  "electra" : {
+    "description" : "Jailbreak iOS 11.3.1 and 11.4 b1-b3",
+    "dev" : "Coolstar",
+    "name" : "Electra",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXf2rmTmqmmZZdmY8PqnL2ghw,,%2Ftitle%2FElectra%252011.3.1%2520MultiPath%2528proper%2529"
+  },
+  "everycord" : {
+    "description" : "Screenrecorder for ios",
+    "dev" : "Unknown",
+    "name" : "EveryCord",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXf5Lmin5q0psphm8bb%2Ftitle%2FEveryCord"
+  },
+  "filza" : {
+    "description" : "File manager for ios",
+    "dev" : "",
+    "name" : "Filza",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXg18Cqh2WupMc,%2Ftitle%2FFilzaEscaped"
+  },
+  "gba4ios" : {
+    "description" : "Play GameBoy Advanced Games on your IOS Device!",
+    "dev" : "Riley Teslut",
+    "name" : "GBA4iOS",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXh0LVkj6a4Ys-jkw,,%2Ftitle%2FGBA4iOS"
+  },
+  "gc4ios" : {
+    "description" : "Gameboy Color emulator for ios",
+    "dev" : "Unknown",
+    "name" : "GC4iOS",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXh0YiZlapzndaU%2Ftitle%2FGC4iOS"
+  },
+  "gearboy" : {
+    "description" : "",
+    "dev" : "Unknown",
+    "name" : "GearBoy",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXh07WiiKa-Ys-jkw,,%2Ftitle%2FGearboy"
+  },
+  "gearsystem" : {
+    "description" : "Play emulators",
+    "dev" : "Unknown",
+    "name" : "GearSystem",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXh07WimbC4qMugYL_qzw,,%2Ftitle%2FGearSystem"
+  },
+  "instagram" : {
+    "description" : "Instagram plus added features",
+    "dev" : "",
+    "name" : "Instagram++",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8uXYb_o4ciRjammodafp8nq2smjVKC1lQ,,%2Ftitle%2FInstagram%252B%252B"
+  },
+  "kik" : {
+    "description" : "Kik Messenger, commonly called Kik, is a freeware instant messaging mobile app from the Canadian company Kik Interactive, available free of charge on iOS and Android operating systems.",
+    "dev" : "Kik Interactive",
+    "name" : "Kik++",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8uXYcHj2cScm6q1oNumYL_qzw,,%2Ftitle%2FKik%252B%252B"
+  },
+  "kodi" : {
+    "description" : "Media center for ios",
+    "dev" : "",
+    "name" : "Kodi",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXl3biZVKC1lQ,,%2Ftitle%2FKodi"
+  },
+  "moviebox" : {
+    "description" : "Watch all your favorite movies free! No jailbreak!",
+    "dev" : "Unknown Developer",
+    "name" : "Moviebox",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXn3cqZi5m0rJScorc,%2Ftitle%2FMovieBox"
+  },
+  "nothx" : {
+    "description" : "Stop Revokes on ios apps",
+    "dev" : "",
+    "name" : "NoThx",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXo3ciYnmS4nc2hl7qo18SR%2Ftitle%2FNoThx"
+  },
+  "xcleaner" : {
+    "description" : "Remove Useless files that fill up your storage, No personal data will be removed",
+    "dev" : "Unknown",
+    "name" : "xCleaner",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXy0cCVh6WqppScorc,%2Ftitle%2FxCleaner"
+  }
+}

@@ -1,0 +1,45 @@
+  /*
+    Flaticon icon font: Flaticon
+    Creation date: 15/09/2018 04:49
+    */
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="iprefsflat-"]:before, [class*=" iprefsflat-"]:before,
+[class^="iprefsflat-"]:after, [class*=" iprefsflat-"]:after {   
+font-family: Flaticon;
+font-style: normal;
+font-size: 14px;
+speak: none;
+font-weight: normal;
+line-height: 20px;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+background: none;
+}
+
+.iprefsflat-home:before { content: "\f100"; }
+.iprefsflat-tools:before { content: "\f101"; }
+.iprefsflat-reload:before { content: "\f102"; }
+.iprefsflat-info:before { content: "\f103"; }
+.iprefsflat-right-arrow:before { content: "\f104"; }
+.iprefsflat-sort:before { content: "\f105"; }
+.iprefsflat-search:before { content: "\f106"; }
+.iprefsflat-list:before { content: "\f107"; }
+.iprefsflat-file:before { content: "\f108"; }

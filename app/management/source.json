@@ -1,0 +1,11 @@
+  {
+  "packages": [
+	    {
+		    "id": "com.kmtech.iprefs",
+		  	"name": "iPrefs Mobileconfig",
+	  		"author": "Kyle Mendell",
+	  		"version": "3.0 Beta",
+	  		"url": "https://iprefs.tk/beta.mobileconfig"
+	    }  
+	]
+}

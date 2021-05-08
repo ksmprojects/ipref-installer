@@ -1,0 +1,19 @@
+{
+  "repository": {
+	  "name": "Repository Name",
+	  "description": "Repository Description",
+  	"maintainer": "Your Name",
+  	"packages": [
+	    {
+		    "id": "yourrepo.package",
+		  	"name": "Package Name",
+	  		"author": "Package Author",
+	  		"version": "Package Version",
+	  		"description": "Package description",
+	  		"link": "Link to package",
+	  		"info": "Link to additional information (youtube), etc."
+	    }
+    ]
+  }
+}
+		
